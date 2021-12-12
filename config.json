@@ -2,16 +2,6 @@
   "base_url": "https://nsharma.xyz",
   "site_title": "nsharma.xyz",
   "site_description": "neeraj's blog",
-  "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
   ],
   "posts_per_page": 5,
   "twitter_account": "@amateur_beinghk",
